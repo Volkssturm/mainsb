@@ -10,14 +10,7 @@ import org.xutils.x;
 
 import java.util.List;
 
-/**
- * Created by 罗许忠
- * on 2017/6/1 14:46
- * 实现思路：
- * 1，
- * 2，
- * 作用：
- */
+
 
 public class MyPagetAdapter extends PagerAdapter {
     private List<String> listVP;

@@ -9,14 +9,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * Created by 罗许忠
- * on 2017/5/26 11:24
- * 实现思路：
- * 1，
- * 2，
- * 作用：
- */
+
 
 public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder>
 {

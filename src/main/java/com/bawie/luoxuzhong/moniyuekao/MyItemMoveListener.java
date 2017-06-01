@@ -3,14 +3,7 @@ package com.bawie.luoxuzhong.moniyuekao;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.helper.ItemTouchHelper;
 
-/**
- * Created by 罗许忠
- * on 2017/5/27 16:54
- * 实现思路：
- * 1，
- * 2，
- * 作用：
- */
+
 
 public class MyItemMoveListener extends ItemTouchHelper.Callback {
 

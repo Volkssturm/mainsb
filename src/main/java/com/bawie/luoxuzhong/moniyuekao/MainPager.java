@@ -4,13 +4,11 @@ import android.app.Activity;
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
-import android.database.Cursor;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
-import android.os.Parcelable;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.view.ViewPager;
@@ -31,14 +29,7 @@ import org.xutils.x;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by 罗许忠
- * on 2017/6/1 10:17
- * 实现思路：
- * 1，
- * 2，
- * 作用：
- */
+
 
 public class MainPager extends Fragment {
 

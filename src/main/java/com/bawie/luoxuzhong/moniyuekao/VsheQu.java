@@ -8,14 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-/**
- * Created by 罗许忠
- * on 2017/6/1 10:17
- * 实现思路：
- * 1，
- * 2，
- * 作用：
- */
+
 
 public class VsheQu extends Fragment {
     @Nullable
